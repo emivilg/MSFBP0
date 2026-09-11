@@ -28,7 +28,7 @@ La asignatura de Modelado de Sistemas Fisiológicos forma parte del plan de estu
 4. Emular la respuesta del circuito RLC en Simulink/Simscape al escalón, impulso, rampa y función sinusoidal.
 5. Simular la respuesta de los modelos matemáticos en Simulink/MATLAB al escalón, impulso, rampa y función sinusoidal.
 6. Sintonizar las ganancias de un controlador PID para eliminar el error entre la entrada y la salida del sistema.
-7. Obtener la respuesta en lazo abierto y en lazo cerrado con el controlador PID en Spyder/Python con la función de transferencia.
+7. Obtener la respuesta en lazo abierto y en lazo cerrado con el controlador PID en Python con la función de transferencia.
 
 ## Descripción detallada del sistema
 
